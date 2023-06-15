@@ -1,3 +1,3 @@
 # react
 
-React Course Complete Guide 2023
+React Course Complete Guide 2023 (redux included)
